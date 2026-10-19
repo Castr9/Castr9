@@ -1,52 +1,51 @@
 # [Linkedin](https://www.linkedin.com/in/rhuan-castro-7b010b346/)
 
 # 👋 Hello! I'm Rhuan Castro
-## Aspiring Developer | Tech Enthusiast | Lifelong Learner
+## T-SQL & Visual FoxPro | Python & Data Developer |  Junior PHC Developer | Clean Code Advocate
 
 📍 Based in Lisbon, Portugal
 
 # 🚀 About Me
 
-## I’m a passionate IT graduate from TOKIO SCHOOL Lisbon, eager to launch my career in tech. My mission?
-✅ Grow exponentially in the IT world.
-✅ Empower others by sharing knowledge (because yes, programming is hard—but not dragon-slaying hard!).
+## Software Developer focused on bridging the gap between systems and ensuring data flows with maximum efficiency and integrity. My passion lies in solving complex business problems through automation, data transformation, and seamless platform integration.
+
+✅ Integrations & Automation: Experienced in developing complex integrations using RESTful APIs and Webhooks for real-time data synchronizationd.
+✅ Data Transformation & Engineering: Manipulating, cleaning, and modeling structured and semi-structured data (JSON/XML). Proficient in writing optimized SQL queries, Views, and robust database logic.
+✅ Tech Stack: Strong command of SQL (T-SQL), Visual FoxPro (VFP) / Visual Basic, Python, and deep knowledge of the PHC environment.
+
+Always eager to tackle new technical challenges, optimize backend workflows, or discuss the latest in data architecture and automation.
 
 ## When I’m not coding, you’ll find me:
 🔧 Building projects to sharpen my skills.
-🤝 Helping friends break into tech (teaching fuels me!).
 🌱 Learning relentlessly—every bug fixed is a level up!
 
 ## 🔥 Why Work With Me?
 
-   - Fresh Perspective: Newly trained with up-to-date industry practices.
+   - Fresh Perspective
 
-   - Problem-Solver: Love turning errors into "Aha!" moments.
+   - Problem-Solver
 
-   - Collaborative Spirit: Believe tech grows faster when we lift each other up.
+   - Collaborative Spirit.
     
 ## 🛠️ Current Focus
 
-🔍 Seeking my first opportunity to contribute, learn, and add value.
-💻 Sharpening my skills through personal projects (check my repos!).
+🔍 Seeking opportunities to further develop my skills and advance my career.
+💻 Sharpening my skills and growing through new challenges.
 📫 Let’s Connect!
 
 ## I’d love to chat about:
 
-   - Junior dev roles (hire me!).
+   - Junior dev roles.
 
    - Open-source contributions.
 
-   - Tech mentorship (or mutual learning!).
+   - Tech mentorship (or mutual learning.).
 
-📩 Reach out: rhuancastrogi@gmail.com | LinkedIn | GitHub
-
-"Code is poetry—let’s write some stanzas together!" ✨ 
-
+📩 Reach out: rhuancastro0990@gmail.com | LinkedIn | GitHub
 
 # 📊 Detailed Information
 - **Name:** Rhuan Castro
-- **Age:** 21
+- **Age:** 23
 - **Living In:** Lisbon, Portugal
-- **Stack:** Python, SQL, Bootstrap, Django, JavaScript
+- **Stack:** Visual Fox Pro, Python, SQL, Bootstrap, Django, JavaScript
 - **Learning:** Java, PhP, C#
-- **University:** None but my knwoledge come from TOKIO SHOOL and in a close future i pretend going to university
